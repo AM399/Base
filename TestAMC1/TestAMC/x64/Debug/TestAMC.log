@@ -1,0 +1,22 @@
+﻿Build started 2022/3/10 11:58:03.
+     1>Project "D:\Projects\TestAMC\TestAMC\TestAMC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\Projects\HIKVISION\HeaderFiles /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\TestAMC.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\Projects\HIKVISION\HeaderFiles /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\TestAMC.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt TestAMC.cpp TestAMCDlg.cpp
+         TestAMCDlg.cpp
+         TestAMC.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\TestAMC.res" TestAMC.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\TestAMC\x64\Debug\TestAMC.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\Projects\HIKVISION\LibraryFiles /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Projects\TestAMC\x64\Debug\TestAMC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\TestAMC\x64\Debug\TestAMC.lib" /MACHINE:X64 x64\Debug\TestAMC.res
+         x64\Debug\stdafx.obj
+         x64\Debug\TestAMC.obj
+         x64\Debug\TestAMCDlg.obj
+         TestAMC.vcxproj -> D:\Projects\TestAMC\x64\Debug\TestAMC.exe
+     1>Done Building Project "D:\Projects\TestAMC\TestAMC\TestAMC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.04

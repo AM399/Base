@@ -1,0 +1,24 @@
+﻿生成启动时间为 2022/5/9 21:29:13。
+     1>项目“D:\Work\Visual Studio 2013\Projects\C++\TestAMC1\TestAMC\TestAMC.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"bin/TestAMC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Work\Visual Studio 2013\Projects\C++\HIKVISION\LibraryFiles" /LIBPATH:"D:\Work\Visual Studio 2013\Projects\HIKVISION\LibraryFiles" /LIBPATH:D:\WorkDirectory\Projects\HIKVISION\LibraryFiles HCNetSDK.lib ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\bin\TestAMC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\bin\TestAMC.lib" /MACHINE:X64 .\bin\TestAMC.res
+         .\bin\DlgConfiguration.obj
+         .\bin\DlgDownload.obj
+         .\bin\DlgPicture.obj
+         .\bin\DlgPlayback.obj
+         .\bin\DlgPreview.obj
+         .\bin\ScreenEdit.obj
+         .\bin\stdafx.obj
+         .\bin\TestAMC.obj
+         .\bin\TestAMCDlg.obj
+         .\bin\THButton.obj
+         .\bin\tinystr.obj
+         .\bin\tinyxml.obj
+         .\bin\tinyxmlerror.obj
+         .\bin\tinyxmlparser.obj
+         TestAMC.vcxproj -> D:\Work\Visual Studio 2013\Projects\C++\TestAMC1\TestAMC\.\bin\TestAMC.exe
+     1>已完成生成项目“D:\Work\Visual Studio 2013\Projects\C++\TestAMC1\TestAMC\TestAMC.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.06

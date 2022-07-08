@@ -1,0 +1,22 @@
+﻿Build started 2022/3/10 8:29:45.
+     1>Project "c:\Users\administrator\documents\visual studio 2013\Projects\TestAMC\TestAMC\TestAMC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\TestAMC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TestAMC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestAMC.cpp TestAMCDlg.cpp
+         TestAMCDlg.cpp
+         TestAMC.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /IDebug\ /nologo /fo"Debug\TestAMC.res" TestAMC.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\administrator\documents\visual studio 2013\Projects\TestAMC\Debug\TestAMC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\administrator\documents\visual studio 2013\Projects\TestAMC\Debug\TestAMC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\administrator\documents\visual studio 2013\Projects\TestAMC\Debug\TestAMC.lib" /MACHINE:X86 Debug\TestAMC.res
+         Debug\stdafx.obj
+         Debug\TestAMC.obj
+         Debug\TestAMCDlg.obj
+         TestAMC.vcxproj -> c:\users\administrator\documents\visual studio 2013\Projects\TestAMC\Debug\TestAMC.exe
+     1>Done Building Project "c:\Users\administrator\documents\visual studio 2013\Projects\TestAMC\TestAMC\TestAMC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.13
